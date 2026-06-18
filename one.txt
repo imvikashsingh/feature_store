@@ -1,0 +1,14 @@
+**“Not every customer is equally valuable—and not every churn deserves the same response. The real challenge isn’t predicting who will leave; 
+it’s knowing which customer you simply cannot afford to lose.”**
+
+Our current churn model evaluates every savings account customer in the same way and triggers similar retention actions across the board. 
+While that approach performs well statistically, it overlooks an important business reality: a relatively small group of high-value customers—those with balances above **€100,000**—holds nearly **60% of the bank’s total deposits**.
+
+In this presentation, I’ll show how we can transform churn prediction from a generic machine learning exercise into a strategic business capability.
+By combining customer transaction behavior with external postal-code tax insights and introducing targeted modeling for high-value customers, 
+we can identify the customers who matter most and intervene with personalized retention strategies before they leave.
+
+More importantly, success will be measured not just by model accuracy, but by the value we preserve: 
+stronger retention of high-value customers, smarter allocation of incentives, and a measurable impact on the bank’s bottom line.
+
+**“In the end, the best churn model isn’t the one that predicts the most departures—it’s the one that protects the greatest value.”**
